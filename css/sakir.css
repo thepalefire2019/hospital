@@ -8,7 +8,7 @@
 .space70{width: 100%; height: 70px}
 .space80{width: 100%; height: 80px}
 :root{
-	--theme-color :#005FD3;
+	--theme-color :#007bff;
 	--font-color: #000;
 	--font-head-color: #1D1D1D;
 }
@@ -42,8 +42,9 @@ header li a:hover{color:#EF7D00 !important}
 .fourth-part .fourth-content img{height:84px;width: 84px}
 .fourth-part .fourth-content h6{}
 
-footer{width:100%;padding:40px 0px;background-image: url(https://images.pexels.com/photos/236380/pexels-photo-236380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);background-size:cover;background-repeat: no-repeat;position: relative;}
-footer .header-box h2{font-size:24px;font-weight:700}
+footer{position:relative; width:100%;padding:40px 0px;background-image: url(https://images.pexels.com/photos/236380/pexels-photo-236380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);background-size:cover;background-repeat: no-repeat;position: relative;}
+footer:before{content: ""; position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.5);}
+footer .header-box h2{font-size:24px;font-weight:700; color: var(--theme-color)}
 footer .header-box p{color:#ffffff !important;}
 footer .header-box li{list-style: none;}
 footer .header-box li a{color:#ffffff !important;text-decoration:none;font-size:16px}

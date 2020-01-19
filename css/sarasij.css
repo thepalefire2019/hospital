@@ -34,5 +34,9 @@
 	.service-third-part .t-content img{margin-left: 50%; transform: translateX(-50%);}
 	.service-fourth-part .fh-content{margin-bottom: 55px; width: 100%}
 	.gallery .gal-mg{margin-bottom: 20px;}
+	.sa-contact-info h1{font-size: 36px;}
+	.contact-list .hulao{margin-left: 70px !important;}
+	.contact-list ul li{font-size: 16px;}
+	.sa-contact-info p{font-weight: unset}
 
 }
