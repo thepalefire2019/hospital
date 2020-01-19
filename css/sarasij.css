@@ -1,4 +1,5 @@
 .head-title{}
+.span-bold{font-weight: bold}
 .head-title h1{text-align: center; text-transform: uppercase; font-size: 22px; font-color:var(--font-head-color); font-weight: 700;}
 .sa-banner{width: 100%; height: calc(100vh - 90px); background:transparent; position: relative;}
 .sa-banner .img{ width: 100%; height: 100% }
@@ -18,3 +19,5 @@
 .gallery{margin-top: 40px;}
 .gallery .gal-mg{width: 100%; height: 200px; }
 .gallery .gal-mg img{width: 100%; height: 200px; }
+.ashoklogo{position: absolute; height: 80px; width: 80px; top:5px;left: -80px;}
+.healthlogo{position: absolute; height: 80px; width: 120px; top:5px;right: -80px;}
