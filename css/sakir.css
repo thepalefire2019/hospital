@@ -25,7 +25,7 @@ header li a:hover{color:#EF7D00 !important}
 .home-slide .pf-carousel-content h2{color:#ffffff;font-weight:bold;line-height:55px;font-size:32px;letter-spacing:1px;margin-bottom:15px}
 .home-slide .pf-carousel-content h2 span{font-size: 70px;}
 /*.home-slide .pf-carousel-content a{padding:13px 22px;background-color:#EE0106;text-decoration:none;color:#ffffff;font-weight:900;font-size:15px;text-transform:uppercase;letter-spacing:1px;margin-left:-105px; }*/
-
+.second-part{width: 100%; overflow: hidden}
 .second-part .second-content{text-align:center;padding-top:40px}
 .second-part .second-content h2{margin-top:10px;font-size:30px;color:#ffffff;font-weight:600}
 .second-part .second-content p{font-size: 15px; margin-top: 12px; color: #FFFFFF;}
