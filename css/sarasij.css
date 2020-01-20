@@ -17,7 +17,7 @@
 .contact-list ul li{font-size: 20px;}
 .contact-list ul li i{padding-right: 8px;}
 .gallery{margin-top: 40px;}
-.gallery .gal-mg{width: 100%; height: 200px; }
+.gallery .gal-mg{width: 100%; height: 200px; margin-bottom: 20px;}
 .gallery .gal-mg img{width: 100%; height: 200px; }
 .ashoklogo{position: absolute; height: 80px; width: 80px; top:5px;left: -80px;}
 .healthlogo{position: absolute; height: 80px; width: 120px; top:5px;right: -80px;}
