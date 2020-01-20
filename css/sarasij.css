@@ -23,9 +23,9 @@
 .healthlogo{position: absolute; height: 80px; width: 120px; top:5px;right: -80px;}
 @media only screen and (max-width : 767px) {
 	.ashoklogo{width: 50px; height: 50px; left: 0; top: 20px;}
-	.healthlogo{display: none}
+	.healthlogo{width: 50px; height: 50px; right: 0; top: 20px;}
 	.home-slide .pf-carousel-slide .pf-carousel-item{height: calc(50vh - 90px); }
-	.resp{font-size: 15px !important; margin-left: 60px; padding-top: 17px;}
+	.resp{font-size: 14px !important; margin-left: 60px; padding-top: 17px;}
 	.home-slide .pf-carousel-slide .pf-carousel-item .pf-carousel-content{padding-top: 30px; padding-right: 4px;}
 	.home-slide .pf-carousel-content h2{font-size: 25px;}
 	.home-slide .pf-carousel-content h2 span{font-size: 38px;}
@@ -38,5 +38,6 @@
 	.contact-list .hulao{margin-left: 70px !important;}
 	.contact-list ul li{font-size: 16px;}
 	.sa-contact-info p{font-weight: unset}
+	.navbar-toggler{padding: .25rem .30rem; margin-right: 45px}
 
 }
